@@ -1,0 +1,30 @@
+{
+  "collections": [
+    {
+      "name": "John Wick Collection",
+      "identifiers": [
+        "tt2911666" ,
+        "tt4425200" ,
+        "tt6146586" ,
+        "tt10366206" ,
+        "tt12844100"
+      ]
+    },
+    {
+      "name": "Star Wars Collection",
+      "identifiers": [
+        "tt0120915",
+        "tt0121765",
+        "tt0121766",
+        "tt3778644",
+        "tt3748528",
+        "tt0076759",
+        "tt0080684",
+        "tt0086190",
+        "tt2488496",
+        "tt2527336",
+        "tt2527338"
+      ]
+    }
+  ]
+}
