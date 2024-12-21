@@ -1,6 +1,25 @@
 {
   "collections": [
     {
+      "name": "The Fast and the Furious Collection",
+      "identifiers": [
+        "tt0232500",
+        "tt2055789",
+        "tt0322259",
+        "tt1538503",
+        "tt1013752",
+        "tt1596343",
+        "tt1905041",
+        "tt0463985",
+        "tt2820852",
+        "tt4630562",
+        "tt6806448",
+        "tt5433138",
+        "tt5433140",
+        "tt27550022"
+      ]
+    },
+    {
       "name": "John Wick Collection",
       "identifiers": [
         "tt2911666" ,
